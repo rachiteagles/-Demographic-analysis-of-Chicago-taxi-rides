@@ -71,7 +71,7 @@ Data Cleaning:
 
 The proportion of rides amongst income brackets
 
-![alt text](newplot (5).png)
+![alt text](https://github.com/rachiteagles/Demographic-analysis-of-Chicago-taxi-rides/blob/main/newplot%20(5).png)
 
 Most of the cabs originate from high-income neighborhoods
 
