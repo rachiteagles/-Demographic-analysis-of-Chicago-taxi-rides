@@ -1,5 +1,7 @@
 # Demographic-analysis-of-Chicago-taxi-rides
 
+Goal of this project is to analyze a large amount of data in a distributed way using PySpark. For this analysis, I used AWS EMR cluster to process data and AWS S3 to store data.
+
 **Datasets used**
 
 Chicago taxi rides dataset 2016
