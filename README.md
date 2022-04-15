@@ -88,7 +88,7 @@ graduates
 ![alt text](https://github.com/rachiteagles/Demographic-analysis-of-Chicago-taxi-rides/blob/main/newplot%20(4).png)
 
 Neighborhoods with highly educated residents result in relatively high tips (compared to
-the fare) even though the absolute tip amount is small
+the fare) even though the absolute tip amount is smaller.
 
 **Fare per mile amongst income brackets**
 
